@@ -1,85 +1,18 @@
-<!-- ======================= -->
-<!-- Split Header: Text + Animation -->
-<!-- ======================= -->
-<table width="100%">
-  <tr>
-    <!-- Left side: Typing text -->
-    <td width="50%" align="center" valign="middle">
-      <h1>
-        Hi, I’m <span style="color:white;">Hash</span><span style="color:#00FF00;">sign</span>
-      </h1>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FFFFFF&width=350&lines=Hi,+I'm+Hash;sign" alt="Typing Hashsign"/>
-    </td>
+# 💫 About Me:
+I love math, trading and finance.
 
-    <!-- Right side: Animation GIF -->
-    <td width="50%" align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/yourusername/animations/hashsign-animation.gif" alt="Hashsign Animation" width="460" height="460"/>
-    </td>
-  </tr>
-</table>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hashsignn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashsign) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hashsignn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hashsign@proton.me) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=plastic&logo=ocaml&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hashsignn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hashsignn&theme=graywhite&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hashsignn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hashsignn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👋 About Me
-Hi! I’m **Harjot Singh (Hash Sign)**, a Master's student in **Business & Economics** at the University of Zurich.  
-I’m passionate about **algorithmic trading, quantitative finance, and data-driven strategies**.  
-
-🎯 I aim to **blend technology with finance**, creating impactful trading systems and analytical tools.  
-💡 Currently focused on **Quant models, financial analysis, and real-time trading simulations**.  
-
----
-
-## 🚀 Projects
-Here are some highlights with **interactive code view**:
-
-| Project | Description | Code |
-|--------|-------------|------|
-| **Indian Stocks Portfolio** | Built an unsystematic risk-adjusted portfolio using efficient frontier, Sharpe, Jensen, and VaR metrics. Achieved 41% max return in 252 trading days. | [View Code](https://github.com/harjotsingh/indian-stocks-portfolio) |
-| **Bitcoin Price Forecast** | Forecasted BTC prices with LSTM models over 45-day windows. 70% backtest accuracy. | [View Code](https://github.com/harjotsingh/bitcoin-price-forecast) |
-| **Binomial Asset Pricing Model** | Multi-period option valuation using the binomial method. | [View Code](https://github.com/harjotsingh/binomial-asset-pricing) |
-| **Topological Evaluation of Options Risks** | Explored derivative contract risk surfaces using topological methods. | [View Code](https://github.com/harjotsingh/options-topology) |
-
-> Clicking **View Code** opens the repo directly in GitHub for interactive exploration.
-
----
-
-## 🛠 Skills & Tools
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Libraries & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Additional Animation for Aesthetic -->
-  <img src="https://cdn.jsdelivr.net/gh/yourusername/animations/candlestick-animation.gif" alt="Candlestick Animation" width="400"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harjotsingh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harjotsingh&theme=radical" />
-</p>
-
----
-
-## 📬 Contact
-- [LinkedIn](https://www.linkedin.com/in/harjotsingh)
-- [Email](mailto:you@example.com)
-- [Portfolio](https://hashsign.netlify.app)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
